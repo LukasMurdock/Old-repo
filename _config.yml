@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Luke Murdock
+tagline:          'A Jekyll Blog'
+description:      'Luke''s Blog'
+url:              https://lukerex2k.github.io
+baseurl:          '/'
+paginate:         5
+
+author:
+  name:           'Luke Murdock'
+  url:            https://lukerex2k.github.io
+
+# Custom vars
+version:          0.0.1
+
+github:
+  repo:           https://github.com/lukerex2k/lukerex2k
